@@ -1,0 +1,10 @@
+telegram:
+  username: bot_name
+  token: bot_token
+  channelId: channelid
+discord:
+  webhookUrl: https://discord.com/api/webhooks/webhook/
+vk:
+  userId: userId
+  token: token
+  groupId: groupId
